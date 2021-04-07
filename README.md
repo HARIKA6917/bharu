@@ -30,4 +30,10 @@
 
 ## how to add video link
 [click here to watch video] (https://www.youtube.com/watch?v=bKD-D3pCWrA)
+## How to insert a tabble
+## my profile
+
+|NAME|MOBILE|EMAIL|
+|-----|----|----|
+
  
